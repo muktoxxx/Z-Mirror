@@ -483,7 +483,7 @@ count - Count file/folder from Drive
 ytdl - or /yt Mirror yt-dlp supported link
 ytdlleech - or /ytl Leech through yt-dlp supported link
 usetting - User settings
-bsettings - Bot settings
+bsetting - Bot settings
 status - Get Mirror Status message
 sall - Get all bot mirror status
 btsel - Select files from torrent
